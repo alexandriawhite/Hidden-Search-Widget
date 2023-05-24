@@ -2,7 +2,8 @@
 
 This is a hidden search widget project created as part of the "50 Projects in 50 Days" course on Udemy.
 
-![Hidden Search Widget Preview]()
+![Hidden Search Widget Preview](![image](https://github.com/alexandriawhite/Hidden-Search-Widget/assets/114960634/41ec0b91-bb92-4930-8fd5-e79a6c18a94e)
+)
 
 ## Description
 
